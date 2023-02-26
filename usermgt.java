@@ -4,5 +4,4 @@ Akinola
 Layo
 obi
 datti
-manager
 Asiwaju
